@@ -6,7 +6,6 @@ channels:
 dependencies:
   - scikit-learn
   - pytorch
-  - opencv
   - streamlit
   - python=3.9
   - scikit-image
@@ -17,5 +16,5 @@ dependencies:
   - mypy
   - pip
   - pip:
-      - opencv-python-headless
+      - opencv-contrib-python-headless
 prefix: /Users/maciej/miniconda3/envs/hiperpixels
