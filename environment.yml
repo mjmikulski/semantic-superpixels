@@ -16,7 +16,6 @@ dependencies:
   - tqdm
   - mypy
   - pip
-  - opencv-python-headless
   - pip:
     - horology==1.1.0
     - pycocotools==2.0.2
