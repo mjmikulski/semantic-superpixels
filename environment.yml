@@ -15,9 +15,5 @@ dependencies:
   - matplotlib
   - tqdm
   - mypy
-  - pip
-  - pip:
-    - horology==1.1.0
-    - pycocotools==2.0.2
 
 prefix: /Users/maciej/miniconda3/envs/hiperpixels
