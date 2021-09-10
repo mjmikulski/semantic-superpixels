@@ -20,7 +20,7 @@ right.markdown(EXPLANATION)
 
 st.sidebar.markdown("""## Input image""")
 filename = img_picker()
-img_scale = st.sidebar.number_input('scale', 0.1, 1.0, 0.3, 0.1,
+img_scale = st.sidebar.number_input('scale', 0.1, 1.0, 0.1, 0.1,
                                     help='How much to down scale the image '
                                          'before processing.Choose smaller '
                                          'values for faster processing.')
